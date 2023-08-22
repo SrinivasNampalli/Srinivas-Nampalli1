@@ -5,7 +5,7 @@ title: Student Blog
 
 
 ## Build you Home Page here 
-This is about your journey. Start now!!!
+I love coding in Python
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
