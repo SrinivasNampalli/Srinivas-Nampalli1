@@ -8,11 +8,10 @@ title: Student Blog
 ![IMG_0191 (2)](https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/ad5f79c1-1e1c-4865-baa9-b4788d2c8dc1)
 
 
+                    Hi, My name is Srinivas Nampalli. My favorite coding Langauahe is java
 
-
-
-                                  Hi My name is srinivas Nampalli
-
+  
+                          
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
 
