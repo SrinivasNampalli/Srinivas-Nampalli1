@@ -7,10 +7,7 @@ title: Student Blog
 ## Build you Home Page here 
 ![IMG_0191 (2)](https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/ad5f79c1-1e1c-4865-baa9-b4788d2c8dc1)
 
-
-
-
-                      <table>
+  <table>
   <tr>
     <th>Hobbies</th>
     <th>Favorite Video Game</th>
