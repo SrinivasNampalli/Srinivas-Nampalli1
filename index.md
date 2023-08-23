@@ -6,8 +6,7 @@ title: Student Blog
 
 ## Build you Home Page here 
 I love coding in Python and Java is cool Anvay is my coding partner
-    Sri likes coding in Java
-        Here is my link to the freeform picture
+![](images\Screenshot2023-08-23 100428.png)
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
