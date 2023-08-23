@@ -6,7 +6,8 @@ title: Student Blog
 
 ## Build you Home Page here 
 I love coding in Python and Java is cool Anvay is my coding partner
-![](images\Screenshot2023-08-23100428.png)
+![IMG_0191 (2)](https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/ad5f79c1-1e1c-4865-baa9-b4788d2c8dc1)
+
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
