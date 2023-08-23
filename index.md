@@ -5,7 +5,11 @@ title: Student Blog
 
 
 ## Build you Home Page here 
-I love coding in Python and Java is cool Anvay is my coding partner
+Omg 
+I 
+Like 
+Coding 
+In Java
 ![IMG_0191 (2)](https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/ad5f79c1-1e1c-4865-baa9-b4788d2c8dc1)
 
 
