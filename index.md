@@ -13,7 +13,9 @@ title: Student Blog
 
 
 
-    <table>
+
+                    
+<table>
   <tr>
     <th>Hobbies</th>
     <th>Favorite Video Game</th>
@@ -25,9 +27,6 @@ title: Student Blog
     <td>My favorite sport is basketball</td>
   </tr>
   <tr>
-
-                    
-                          
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
 
