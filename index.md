@@ -12,21 +12,17 @@ title: Student Blog
 
   <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Hobbies</th>
+    <th>Favorite Video Game</th>
+    <th>Favortite Sport</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>I like coding in Java and I love learning about machine learning.</td>
+    <td>My favortite video game is Fortnite</td>
+    <td>My favorite sport is basketball</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-</table>
+ 
                           
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
