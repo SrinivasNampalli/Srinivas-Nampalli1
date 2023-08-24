@@ -26,7 +26,43 @@ Chick-fil-A is a popular restaurant known for its tasty chicken dishes. People l
 
 4.  
     ![Chrome-Hearts-Logo](https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/65b769de-58c7-47fe-9585-89c8e15b22d9)
- Fashion, like Chrome Hearts, plays a big role in my life. It's not just about clothes, but expressing who I am. Chrome Hearts' unique style resonates with me, letting me showcase my individuality. Fashion boosts my confidence and helps me connect with like-minded individuals. It's a statement that speaks without words, making every day a chance to be my authentic self.               
+ Fashion, like Chrome Hearts, plays a big role in my life. It's not just about clothes, but expressing who I am. Chrome Hearts' unique style resonates with me, letting me showcase my individuality. Fashion boosts my confidence and helps me connect with like-minded individuals. It's a statement that speaks without words, making every day a chance to be my authentic self.               <!DOCTYPE html>
+<html>
+<head>
+  <title>Quiz</title>
+  <style>
+    .question {
+      cursor: pointer;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+    .answer {
+      display: none;
+    }
+  </style>
+  <script>
+    function toggleAnswer(id) {
+      var answer = document.getElementById(id);
+      if (answer.style.display === "none") {
+        answer.style.display = "block";
+      } else {
+        answer.style.display = "none";
+      }
+    }
+  </script>
+</head>
+<body>
+  <div class="question" onclick="toggleAnswer('color')">What is my favorite color?</div>
+  <div class="answer" id="color">My favorite color is blue.</div>
+  
+  <div class="question" onclick="toggleAnswer('brand')">What is my favorite fashion brand?</div>
+  <div class="answer" id="brand">My favorite fashion brand is Chrome Hearts.</div>
+  
+  <div class="question" onclick="toggleAnswer('food')">What is my favorite fast food?</div>
+  <div class="answer" id="food">My favorite fast food is Chick-fil-A.</div>
+</body>
+</html>
+
 <table>
   <tr>
     <th>Hobbies</th>
