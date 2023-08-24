@@ -63,11 +63,21 @@ title: Blogs
     <td>when variable msg is printed, input box states “abcd”, prompting the user to type something in the box
 </td>
     <td>Learnt in Week 1</td>
-  </tr>
+   </tr>
    <tr>
       <tr>
-    <td> if expression</td>
+    <td> if expressio</td>
     <td>evaluates for true and false
+</td>
+    <td>Learnt in Week 1</td>
+  
+  </tr>
+   <tr>
+    </tr>
+   <tr>
+      <tr>
+    <td> # </td>
+    <td>Comments out code and makes it invalid from running 
 </td>
     <td>Learnt in Week 1</td>
   
