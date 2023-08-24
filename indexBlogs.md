@@ -55,8 +55,24 @@ title: Blogs
  <tr>
     <td> print()< link></td>
     <td>prints statment</td>
-    <td>Learnt in Week 0</td>
+    <td>Learnt in Week 1</td>
   </tr>
    <tr>
+ <tr>
+    <td> Msg = input(“abcd”)</td>
+    <td>when variable msg is printed, input box states “abcd”, prompting the user to type something in the box
+</td>
+    <td>Learnt in Week 1</td>
+  </tr>
+   <tr>
+      <tr>
+    <td> if expression</td>
+    <td>evaluates for true and false
+</td>
+    <td>Learnt in Week 1</td>
+  
+  </tr>
+   <tr>
+     
 </table>
 
