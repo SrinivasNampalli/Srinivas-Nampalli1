@@ -26,12 +26,7 @@ title: Blogs
 <body>
   <table>
     <tr>
-      <th>Commands</th>
-      <th>Definitions</th>
-      <th colspan="4">Week 0</th>
-      <th>Week 1</th>
-      <th>Week 2</th>
-      <th>Week 3</th>
+      <th colspan="10">Week 1 Definitions</th>
     </tr>
     <tr>
       <td>...</td>
@@ -43,8 +38,28 @@ title: Blogs
       <td>...</td>
       <td>...</td>
       <td>...</td>
+      <td>...</td>
     </tr>
     <tr>
+      <th colspan="10">Week 2 Definitions</th>
+    </tr>
+    <tr>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th colspan="10">Week 3 Definitions</th>
+    </tr>
+    <tr>
+      <td>...</td>
       <td>...</td>
       <td>...</td>
       <td>...</td>
@@ -58,3 +73,4 @@ title: Blogs
   </table>
 </body>
 </html>
+
