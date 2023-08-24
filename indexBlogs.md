@@ -10,44 +10,46 @@ title: Blogs
     <th>Week 0</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>make</td>
+    <td>This runs local severer</td>
+    <td>Learnt in Week 0</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>make convert</td>
+    <td> converts Jupyter Notebook files, run this if your .ipynb files are not updating on the server.</td>
+    <td>Learnt in Week 0</td>
   </tr>
     <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>WSL</td>
+    <td>lets you run a linux environment on your machine</td>
+    <td>Learnt in Week 0</td>
   </tr>
     <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Cd ~ </td>
+    <td> lets you change your directory to the home directory</td>
+    <td>Learnt in Week 0</td>
   </tr>
     <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Cd -vscode</td>
+    <td>Lets you change your directory to the vs code directory
+</td>
+    <td>Learnt in Week 0</td>
   </tr>
     <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Ls</td>
+    <td>Checks all the lists in the directory</td>
+    <td>Learnt in Week 0</td>
   </tr>
     <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>code <repository name></td>
+    <td>opens repository
+</td>
+    <td>Learnt in Week 0</td>
   </tr>
     <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>git clone < link></td>
+    <td>clones a repository</td>
+    <td>Learnt in Week 0</td>
   </tr>
   
 
