@@ -52,6 +52,11 @@ title: Blogs
     <td>Learnt in Week 0</td>
   </tr>
   
-
+ <tr>
+    <td> print()< link></td>
+    <td>prints statment</td>
+    <td>Learnt in Week 0</td>
+  </tr>
+   <tr>
 </table>
 
