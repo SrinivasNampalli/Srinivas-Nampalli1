@@ -24,7 +24,8 @@ Java has transformed my understanding of programming. Its versatility, from crea
   ![CFA+Red+Script+Logo+(White+Outline)](https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/0c561e08-0510-4cda-bf08-16b9c61406d3)
 Chick-fil-A is a popular restaurant known for its tasty chicken dishes. People love their special sandwiches and friendly service. It's a place where good food and kindness come together, making it a favorite spot for many.
 
-                    
+4. 
+     Fashion, like Chrome Hearts, plays a big role in my life. It's not just about clothes, but expressing who I am. Chrome Hearts' unique style resonates with me, letting me showcase my individuality. Fashion boosts my confidence and helps me connect with like-minded individuals. It's a statement that speaks without words, making every day a chance to be my authentic self.               
 <table>
   <tr>
     <th>Hobbies</th>
