@@ -20,8 +20,9 @@ Ferrari F1 embodies the pinnacle of speed, engineering, and passion. The team's 
    ![java-logo-1](https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/c78278eb-fda8-482d-8adc-4890617cceec)
 Java has transformed my understanding of programming. Its versatility, from creating applications to web development, has expanded my horizons. Java's object-oriented approach refined my problem-solving skills, shaping me into a meticulous coder. It's a language that continually propels me to explore new dimensions of software development.
     
-
-
+3. 
+  ![CFA+Red+Script+Logo+(White+Outline)](https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/0c561e08-0510-4cda-bf08-16b9c61406d3)
+Chick-fil-A is a popular restaurant known for its tasty chicken dishes. People love their special sandwiches and friendly service. It's a place where good food and kindness come together, making it a favorite spot for many.
 
                     
 <table>
