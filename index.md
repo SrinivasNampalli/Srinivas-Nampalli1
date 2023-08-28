@@ -14,7 +14,7 @@ title: Student Blog
   1.  ![download (2)](https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/3febb2d7-8fae-428c-926d-d5dfbf631dc8)
 
   
-Ferrari F1 embodies the pinnacle of speed, engineering, and passion. The team's legacy of excellence and pursuit of victory resonates deeply with me. Their precision and relentless drive inspire me to excel in every endeavor, mirroring their commitment to pushing boundaries and achieving greatness. HI I like fortnite
+Ferrari F1 embodies the pinnacle of speed, engineering, and passion. The team's legacy of excellence and pursuit of victory resonates deeply with me. Their precision and relentless drive inspire me to excel in every endeavor, mirroring their commitment to pushing boundaries and achieving greatness. 
 
   2. 
    ![java-logo-1](https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/c78278eb-fda8-482d-8adc-4890617cceec)
