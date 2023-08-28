@@ -22,7 +22,7 @@ Java is one of my favorite coding languages. I have been using it for a while an
     
 3. 
   ![CFA+Red+Script+Logo+(White+Outline)](https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/0c561e08-0510-4cda-bf08-16b9c61406d3)
-Chick- Fil- A is my favorite fast food restaraunt as I have eating from there for a while now. My favorite item from their menu is their peach shake drink.
+Chick- Fil- A is my favorite fast food restaraunt as I have eating from there for a while now. My favorite item from their menu is their peach shake drink. I also like Wendy's but I think Chick-Fil-A is better.
 
 4.  
     ![Chrome-Hearts-Logo](https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/65b769de-58c7-47fe-9585-89c8e15b22d9)
